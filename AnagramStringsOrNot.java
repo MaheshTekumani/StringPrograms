@@ -6,6 +6,7 @@ public abstract class AnagramStringsOrNot {
 	public static void main(String[] args) {
 		
 		Scanner sc=new Scanner(System.in);
+System.out.println("This is done by Hari");
 		System.out.println("Enter The String");
 		String s=sc.nextLine();
 		System.out.println("Enter The String");
